@@ -4,9 +4,15 @@ This directory contains a progression of projects focusing on Text Mining and Se
 
 ## 📂 Contents
 
-### 1. [Data Preprocessing & Exploration (EDA)](./01_Preprocessing_EDA.ipynb)
+### 0. [Data Preprocessing & Exploration (EDA)](./01_Preprocessing_EDA.ipynb)
+**Goal:** Preprocess the data and create intermediate data visualization.
+* **Key Tasks:** Identifying and handling outliers, Visualization.
+* **Evaluation:** Interquartile Range (IQR) method, Boxplot, and Correlation Heatmap.
+* **Tools:** `Pandas`, `Matplotlib`, `Seaborn`.
+
+### 1. 
 **Goal:** Master the art of cleaning raw text data before feeding it into machine learning models.
-* **Key Tasks:** Tokenization, Stop-word removal, Lemmatization, and Stemming.
+* **Key Tasks:** Load data, Stop-word removal, Lemmatization, and Stemming.
 * **Analysis:** Word frequency distributions, N-grams analysis, and WordClouds.
 * **Tools:** `NLTK`, `SpaCy`, `Matplotlib`.
 
