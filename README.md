@@ -11,8 +11,8 @@ The projects are organized by domain to reflect specific technical competencies:
 | Category | Description | Key Technologies |
 | :--- | :--- | :--- |
 | **[NLP](./NLP)** | Text processing, Sentiment Analysis, and Transformers. | `HuggingFace`, `NLTK`, `PyTorch` |
-| **[ML for Biology](./ML-Biology)** | Biological data analysis, protein classification, and genomics. | `Scikit-learn`, `Pandas` |
-| **[Data Science](./Data-Science)** | Exploratory Data Analysis (EDA) and statistical modeling. | `Matplotlib`, `Seaborn`, `Statsmodels` |
+| **[ML for Biology](./ML_Biology)** | Biological data analysis, protein classification, and genomics. | `Scikit-learn`, `Pandas` |
+| **[Data Science](./Data_Sciences)** | Exploratory Data Analysis (EDA) and statistical modeling. | `Matplotlib`, `Seaborn`, `Statsmodels` |
 
 ---
 
