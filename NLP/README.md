@@ -42,7 +42,4 @@ This directory contains a progression of projects focusing on Text Mining and Se
 ## How to Run
 Most notebooks can be opened directly in Google Colab. For local execution:
 1. Ensure you have the datasets (or links provided in the notebooks).
-2. Install the specific NLP requirements:
-   ```bash
-   pip install nltk spacy scikit-learn torch
-   python -m spacy download en_core_web_sm
+2. Install the requirements
